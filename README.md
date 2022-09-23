@@ -7,8 +7,8 @@ All the videos are annotated following the format of MOT17.
 
 We provide 3 related code or tools.
 
-[[TransTrack]](https://github.com/PeizeSun/TransTrack)
+[[TransTrack]](https://github.com/PeizeSun/TransTrack) is the baseline.
 
-[[denseflow]](https://github.com/open-mmlab/denseflow.git)
+[[denseflow]](https://github.com/open-mmlab/denseflow.git) extracts frames.
 
-[[TrackEval]](https://github.com/JonathonLuiten/TrackEval)
+[[TrackEval]](https://github.com/JonathonLuiten/TrackEval) evaluates tracking results
