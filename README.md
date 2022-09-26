@@ -7,7 +7,7 @@ All the videos are annotated following the format of MOT17.
 
 We provide 3 related code or tools.
 
-[[TransTrack]](https://github.com/PeizeSun/TransTrack) is the baseline.
+[[TransTrack]](https://github.com/PeizeSun/TransTrack) is the baseline. Our method is following TransTrack. We recommend you to reproduce TransTrack first.
 
 [[denseflow]](https://github.com/open-mmlab/denseflow.git) extracts frames.
 
@@ -17,7 +17,7 @@ We provide 3 related code or tools.
 
 ### Dataset preparation
 
-Our method is following TransTrack. Please download and organize RallyTrack as following: 
+Please download and organize RallyTrack as following: 
 
 ```
 TransTrack
