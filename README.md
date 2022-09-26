@@ -13,6 +13,20 @@ We provide 3 related code or tools.
 
 [[TrackEval]](https://github.com/JonathonLuiten/TrackEval) evaluates tracking results
 
+## Usage
+
+### Dataset preparation
+
+Our method is following TransTrack. Please download and organize RallyTrack as following: 
+
+```
+TransTrack
+└── rallytrack/
+    ├── train/
+    ├── test/
+    └── annotations/
+```
+
 ## Citing
 
 If you use RallyTrack in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
