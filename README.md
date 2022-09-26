@@ -27,6 +27,11 @@ TransTrack
     └── annotations/
 ```
 
+Convert rallytrack to coco format.
+```
+python3 track_tools/convert_rallytrack_to_coco.py
+```
+
 ## Citing
 
 If you use RallyTrack in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
