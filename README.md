@@ -32,11 +32,12 @@ Convert rallytrack to coco format.
 python3 track_tools/convert_rallytrack_to_coco.py
 ```
 
-##Agreement
+## Agreement
 
 The dataset of RallyTrack is available for non-commercial research purposes only.
 
-##Acknowledgement
+## Acknowledgement
+
 This work was supported by the National Natural Science Foundation of China under Grant U20B2069 and the Fundamental Research Funds for the Central Universities.
 
 ## Citing
