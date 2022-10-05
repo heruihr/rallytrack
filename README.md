@@ -1,5 +1,5 @@
 # RallyTrack
-Our dataset can be download here: 
+Our dataset website is building. Please contact our manager heruihr@buaa.edu.cn and we will provide our dataset. 
 
 3 .zip files are included. rallytrack.zip only contains volleyball videos. basketball.zip and soccer.zip extend rallytrack on other sports.
 
@@ -20,7 +20,7 @@ We provide 3 related code or tools.
 Please download and organize RallyTrack as following: 
 
 ```
-TransTrack
+(TransTrack root)
 └── rallytrack/
     ├── train/
     ├── test/
@@ -31,6 +31,13 @@ Convert rallytrack to coco format.
 ```
 python3 track_tools/convert_rallytrack_to_coco.py
 ```
+
+##Agreement
+
+The dataset of RallyTrack is available for non-commercial research purposes only.
+
+##Acknowledgement
+This work was supported by the National Natural Science Foundation of China under Grant U20B2069 and the Fundamental Research Funds for the Central Universities.
 
 ## Citing
 
