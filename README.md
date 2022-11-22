@@ -47,7 +47,7 @@ If you use RallyTrack in your research or wish to refer to the baseline results 
 ```BibTeX
 
 @InProceedings{he2022rallytrack,
-  title   =  {D$^3$: Duplicate Detection Decontaminator for Multiple Object Tracking on Sports Video},
+  title   =  {D$^3$: Duplicate Detection Decontaminator for Multi-Athlete Tracking in Sports Videos},
   author  =  {Rui He and Zehua Fu and Qingjie Liu and Yunhong Wang and Xunxun Chen},
   journal =  {Asian Conference on Computer Vision},
   year    =  {2022}
