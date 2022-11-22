@@ -41,7 +41,10 @@ The dataset of RallyTrack is available for non-commercial research purposes only
 This work was supported by the National Natural Science Foundation of China under Grant U20B2069 and the Fundamental Research Funds for the Central Universities.
 
 ## Test Visual
-![image](https://github.com/heruihr/rallytrack/blob/main/Experimental_Results/TTD3RH_volleyball_broadcast_view.gif)
+TT_volleyball_broadcast_view
+![TT_volleyball_broadcast_view]https://github.com/heruihr/rallytrack/blob/main/Experimental_Results/TT_volleyball_broadcast_view.gif
+TTD3RH_volleyball_broadcast_view
+![TTD3RH_volleyball_broadcast_view](https://github.com/heruihr/rallytrack/blob/main/Experimental_Results/TTD3RH_volleyball_broadcast_view.gif)
 
 ## Citing
 
