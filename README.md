@@ -42,13 +42,9 @@ This work was supported by the National Natural Science Foundation of China unde
 
 ## Test Visual
 
-TT_volleyball_broadcast_view
+TT_volleyball_broadcast_view TTD3RH_volleyball_broadcast_view
 
-![TT_volleyball_broadcast_view](https://github.com/heruihr/rallytrack/blob/main/Experimental_Results/TT_volleyball_broadcast_view.gif)
-
-TTD3RH_volleyball_broadcast_view
-
-![TTD3RH_volleyball_broadcast_view](https://github.com/heruihr/rallytrack/blob/main/Experimental_Results/TTD3RH_volleyball_broadcast_view.gif)
+![TT_volleyball_broadcast_view](https://github.com/heruihr/rallytrack/blob/main/Experimental_Results/TT_volleyball_broadcast_view.gif)![TTD3RH_volleyball_broadcast_view](https://github.com/heruihr/rallytrack/blob/main/Experimental_Results/TTD3RH_volleyball_broadcast_view.gif)
 
 ## Citing
 
